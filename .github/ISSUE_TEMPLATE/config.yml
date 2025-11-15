@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: View Cookbook
+    url: https://github.com/boazhachlili/cookbook/blob/main/cookbook.json
+    about: View the complete cookbook in JSON format
