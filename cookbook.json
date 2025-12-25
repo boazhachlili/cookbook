@@ -344,6 +344,39 @@
       ]
     },
     {
+      "section": "רטבים וממרחים",
+      "title": "Sweet Chilli Sauce",
+      "language": "en",
+      "diet": "vegan",
+      "equipment": [
+        "pan",
+        "bottles"
+      ],
+      "description": "Sweet and spicy chilli sauce perfect as a condiment or dipping sauce.",
+      "ingredients": [
+        "1/2 cup sugar",
+        "1/2 cup water",
+        "1/2 cup rice vinegar",
+        "5 garlic cloves",
+        "2 Tbsp chilli flakes",
+        "1 tsp paprika",
+        "1 Tbsp light soy sauce",
+        "2 tsp cornflour mixed with water (to thicken)"
+      ],
+      "steps": [
+        "Place all ingredients (except cornflour mixture) into a pan and set heat to medium.",
+        "Stir until sugar dissolves.",
+        "Simmer for 2 minutes.",
+        "Add cornflour with water mix.",
+        "Simmer for additional 2-5 minutes until thickened.",
+        "Transfer to bottles and enjoy."
+      ],
+      "tips": [
+        "Store in sterilized bottles in the refrigerator for up to 2 weeks."
+      ],
+      "status": "complete_generated_in_conversation"
+    },
+    {
       "section": "מנות עיקריות",
       "title": "אצבעות אסאדו ברוטב ברביקיו, דבש וגרידת לימון",
       "language": "he",
@@ -1189,6 +1222,38 @@
       ],
       "status": "complete_generated_in_conversation",
       "source_note": "Added from GitHub issue - Thai Pad Krapao recipe"
+    },
+    {
+      "section": "כבישה מהירה",
+      "title": "גזר כבוש בסגנון שווארמה 🥕",
+      "language": "he",
+      "diet": "טבעוני",
+      "equipment": [
+        "קערה",
+        "מנדולינה (אופציונלי)"
+      ],
+      "description": "גזר כבוש חריף ומהיר, בדיוק כמו שמגישים בדוכני שווארמה – מוכן תוך 2-3 שעות.",
+      "ingredients": [
+        "5 גזרים קלופים 🥕🥕🥕🥕🥕",
+        "2 שיני שום קטנות קצוצות דק",
+        "מלח לפי טעם",
+        "פלפל שחור לפי טעם",
+        "2 כפות חומץ רגיל 5%",
+        "1 כף שמן",
+        "קורט צ'ילי גרוס",
+        "1 כפית אריסה",
+        "חופן עלי סלרי קצוצים דק"
+      ],
+      "steps": [
+        "לפרוס את הגזרים לעיגולים דקים (אני פורסת במנדולינה).",
+        "מניחים את הגזר בקערה ומערבבים עם שאר המרכיבים.",
+        "נותנים לעמוד 2-3 שעות לספיגת הטעמים.",
+        "מגישים."
+      ],
+      "tips": [
+        "שימוש במנדולינה מבטיח עיגולים דקים ואחידים."
+      ],
+      "status": "complete_generated_in_conversation"
     }
   ]
 }
