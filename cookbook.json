@@ -1808,6 +1808,46 @@
       ],
       "status": "complete_generated_in_conversation",
       "source_note": "Added from GitHub issue - pickled vegetable recipes collection"
+    },
+    {
+      "section": "סלטים טריים",
+      "title": "Beetroot, Carrot & Apple Salad with Hot Oil Dressing",
+      "language": "en",
+      "diet": "vegan",
+      "equipment": [
+        "grater",
+        "small pan",
+        "mixing bowl"
+      ],
+      "description": "A vibrant detox salad packed with antioxidants and fiber. Shredded beetroot, carrot, and apple with walnuts, cilantro, and a unique hot oil dressing that removes the earthy taste of beetroot. Great for gut health and glowing skin.",
+      "ingredients": [
+        "1 Beetroot (Shredded)",
+        "1 Carrot (Shredded)",
+        "1 Apple (Shredded)",
+        "Handful of Walnuts (Crushed)",
+        "Cilantro (Coriander)",
+        "Dressing: Salt, Honey, Lemon Juice, Sesame Oil"
+      ],
+      "steps": [
+        "Shred the beetroot, carrot, and apple.",
+        "Crush a handful of walnuts.",
+        "Chop fresh cilantro (coriander).",
+        "Combine all vegetables in a mixing bowl.",
+        "Add crushed walnuts and cilantro.",
+        "Secret Step: Heat any oil (sesame, olive, or avocado) in a small pan.",
+        "Add spices to the hot oil: garlic, whole black pepper, sea salt.",
+        "Heat briefly to release the aroma.",
+        "Pour the hot oil with spices over the salad.",
+        "Add the dressing: salt, honey, lemon juice, and sesame oil.",
+        "Mix well and serve."
+      ],
+      "tips": [
+        "The hot oil dressing removes the earthy taste of beetroot!",
+        "This salad is packed with antioxidants and fiber.",
+        "Great for detox, gut health, and glowing skin."
+      ],
+      "status": "complete_generated_in_conversation",
+      "source_note": "Added from GitHub issue screenshot - beetroot, carrot & apple salad"
     }
   ]
 }
