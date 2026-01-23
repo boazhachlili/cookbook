@@ -2125,7 +2125,8 @@
       "tips": [
         "להגשה מושלמת – סחיטה קטנה של לימון או פיזור פתיתי מלח גס מיד ביציאה מהתנור."
       ],
-      "status": "complete_generated_in_conversation"
+      "status": "complete_generated_in_conversation",
+      "source_note": "Added from GitHub issue - Baked potatoes recipe"
     }
   ]
 }
