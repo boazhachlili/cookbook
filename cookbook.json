@@ -2190,7 +2190,8 @@
         "מיץ הלימון במרק הוא מרכיב חשוב – לא לוותר עליו.",
         "אפשר להכין את הקציצות מראש ולהקפיא אותן לשימוש עתידי."
       ],
-      "status": "complete_generated_in_conversation"
+      "status": "complete_generated_in_conversation",
+      "source_note": "Added from GitHub issue - Original Patent Kubba recipe"
     }
   ]
 }
