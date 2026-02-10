@@ -172,6 +172,12 @@ Any GPT or tool working with this repository should follow these rules:
 6. **No destructive edits.**
    - When suggesting JSON changes, GPTs should output the new/updated recipe object(s), not rewrite the entire file unless explicitly requested.
 
+7. **Merge conflict resolution in `cookbook.json`:**
+   - Conflicts in `cookbook.json` almost always happen because two branches each append a new recipe to the end of the `cookbook` array.
+   - The correct resolution is **always to keep both recipes**. Never discard one side.
+   - After resolving, ensure the result is valid JSON: proper commas between objects, no trailing commas, and no leftover conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`).
+   - Validate the file with a JSON parser after resolution.
+
 ---
 
 ## 5. How GPTs should use this repo
