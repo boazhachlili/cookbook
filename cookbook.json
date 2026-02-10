@@ -2192,6 +2192,58 @@
       ],
       "status": "complete_generated_in_conversation",
       "source_note": "Added from GitHub issue - Original Patent Kubba recipe"
+    },
+    {
+      "section": "מנות עיקריות",
+      "title": "Honey Lemon Garlic Chicken",
+      "language": "en",
+      "diet": "בשרי (עוף)",
+      "equipment": [
+        "pan",
+        "spatula"
+      ],
+      "description": "Golden crispy chicken thighs glazed with a sweet, tangy honey-lemon-garlic sauce with a hint of spice. Perfect over rice.",
+      "ingredients": [
+        "2 boneless chicken thighs (about 300–350 g total), skin on",
+        "Salt and black pepper, to taste",
+        "Cornstarch, for coating (about 2–3 tablespoons)",
+        "Neutral oil, for frying",
+        "",
+        "Sauce:",
+        "45 g butter",
+        "5 garlic cloves, finely minced",
+        "30 ml soy sauce (2 tablespoons)",
+        "30 ml mirin (2 tablespoons)",
+        "30 g honey (2 tablespoons)",
+        "Juice of 1 lemon (about 30–40 ml)",
+        "Lemon zest, about ½ tablespoon",
+        "½ teaspoon paprika",
+        "½ teaspoon chili flakes",
+        "½ teaspoon black pepper",
+        "",
+        "Garnish (optional):",
+        "Sesame seeds",
+        "Chopped chives"
+      ],
+      "steps": [
+        "Pat the chicken dry. Season both sides with salt and pepper, then lightly coat with cornstarch, shaking off excess.",
+        "Heat oil in a pan over medium-high heat. Fry the chicken skin-side down for about 7 minutes until golden and crispy, flip and cook another 6–7 minutes until cooked through. Remove and set aside.",
+        "Lower heat to medium. In the same pan, melt the butter. Add garlic and sauté for about 1 minute until fragrant.",
+        "Add soy sauce, mirin, honey, lemon juice, lemon zest, paprika, chili flakes, and black pepper. Stir and simmer until the sauce thickens into a glossy glaze.",
+        "Return the chicken to the pan and spoon the sauce over it, cooking together for 1–2 minutes to coat well.",
+        "Serve hot, garnished with sesame seeds and chives, preferably over rice."
+      ],
+      "tips": [
+        "Make sure to shake off excess cornstarch to avoid clumping in the pan.",
+        "Do not overcrowd the pan when frying the chicken to maintain oil temperature.",
+        "The sauce will thicken as it cools, so remove from heat when it reaches your desired consistency."
+      ],
+      "serving": [
+        "Serve over steamed rice",
+        "Pair with stir-fried vegetables or a simple green salad"
+      ],
+      "status": "complete_generated_in_conversation",
+      "source_note": "Added from GitHub issue request"
     }
   ]
 }
